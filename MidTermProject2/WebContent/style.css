@@ -1,0 +1,26 @@
+html{
+    background: url("images/background.jpg");
+    background-size:cover;
+}
+*{
+	margin:4px;
+	font-family:Microsoft JhengHei;
+}
+h1,h2{
+	text-align:center;
+}
+h3{
+	color:red;
+	text-align:center;
+}
+.showbox{
+	margin:auto;
+	texi-align:right;
+	width:30%;	
+}
+.back{
+	text-align:center;
+}
+span{
+	font-size:14px;
+}
